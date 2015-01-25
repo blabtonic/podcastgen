@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- generator="Podcast Generator 2.4" -->
+	<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Night of Champions</title>
+		<link>http://localhost/podcastgen/</link>
+		<atom:link href="http://localhost/podcastgen/feed.xml" rel="self" type="application/rss+xml" />
+		<description>Small podcast where we talk about comics, video games and movies</description>
+		<generator>Podcast Generator 2.4 - http://podcastgen.sourceforge.net</generator>
+		<lastBuildDate>Sun, 25 Jan 2015 10:30:16 -0500</lastBuildDate>
+		<language>en</language>
+		<copyright>don't steal from us</copyright>
+		<itunes:image href="http://localhost/podcastgen/images/itunes_image.jpg" />
+		<image>
+		<url>http://localhost/podcastgen/images/itunes_image.jpg</url>
+		<title>Night of Champions</title>
+		<link>http://localhost/podcastgen/</link>
+		</image>
+		<itunes:summary>Small podcast where we talk about comics, video games and movies</itunes:summary>
+		<itunes:subtitle>One must fall</itunes:subtitle>
+		<itunes:author>Test</itunes:author>
+		<itunes:owner>
+		<itunes:name>Test</itunes:name>
+		<itunes:email>test@nospam.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>yes</itunes:explicit>
+		
+		<itunes:category text="Arts"></itunes:category>
+		
+	</channel>
+	</rss>

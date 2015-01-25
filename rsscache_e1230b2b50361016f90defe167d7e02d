@@ -1,0 +1,17 @@
+a:8:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:17:"Podcast Generator";s:4:"link";s:41:"http://sourceforge.net/p/podcastgen/news/";s:11:"description";s:266:"Podcast Generator is a Free web based PHP podcasting script: publish podcasts uploading audio/video files via a web form and automatically create podcast w3c-compliant feeds including iTunes specific tags. The script also features a comprehensive web administration.";s:8:"language";s:2:"en";s:13:"lastBuildDate";s:20:"Jan 13, 2015 8:53 AM";s:5:"items";a:1:{i:0;a:5:{s:5:"title";s:30:"Podcast Generator 2.4 released";s:4:"link";s:69:"http://feeds.podcastgenerator.net/~r/podcastgenerator/~3/Gx83pnHLJgM/";s:11:"description";s:1776:"&lt;div class="markdown_content"&gt;&lt;p&gt;Podcast Generator 2.4 is here with new exciting features and improvements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for images associated to single episodes&lt;/li&gt;
+&lt;li&gt;Artwork embedded in a media file automatically extracted and displayed in the webpage + RSS feed&lt;/li&gt;
+&lt;li&gt;Added two new default themes: "Exposure" and "Syndicate" (thanks to Randy Greene)&lt;/li&gt;
+&lt;li&gt;Removed the old "classic_ocean" theme (that will be still supported for retro-compatibility)&lt;/li&gt;
+&lt;li&gt;Increased SEO for better indexing of the single episodes permalinks&lt;/li&gt;
+&lt;li&gt;Minor bug fixes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To upgrade, follow these instructions:&lt;br /&gt;
+&lt;a href="http://podcastgen.sf.net/documentation/upgrade"&gt;http://podcastgen.sf.net/documentation/upgrade&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Podcast Generator is also available in Korean, Norwegian, Dutch, Russian, Italian, Czech, Spanish and Hungarian:&lt;br /&gt;
+&lt;a href="https://sourceforge.net/projects/podcastgen/files/podcastgen/podcastgen-2.4/translations"&gt;https://sourceforge.net/projects/podcastgen/files/podcastgen/podcastgen-2.4/translations/&lt;/a&gt;&lt;br /&gt;
+To contribute with a new translation, visit:&lt;br /&gt;
+&lt;a href="http://transifex.com/projects/p/podcast-generator" rel="nofollow"&gt;http://transifex.com/projects/p/podcast-generator/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you love Podcast Generator, support it with a donation!&lt;br /&gt;
+&lt;a href="https://sourceforge.net/p/podcastgen/donate"&gt;https://sourceforge.net/p/podcastgen/donate/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;img src="//feeds.feedburner.com/~r/podcastgenerator/~4/Gx83pnHLJgM" height="1" width="1" alt=""/&gt;";s:4:"guid";s:62:"http://sourceforge.net361e7a95b29d50a4099991d4ac227ab728bc6be9";s:7:"pubDate";s:20:"Jan 13, 2015 8:53 AM";}}s:11:"items_count";i:1;}
